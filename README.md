@@ -1,24 +1,12 @@
-# README
+## いいね順並び替え機能
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+フォローフォロワー機能、非同期通信、検索機能は実装されています。
 
-Things you may want to cover:
+* いいね順に並べる仕組みを作り、その中で1週間という期間を決める流れ
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ ## 開発環境
+ - OS：Linux(CentOS)
+ - 言語：HTML,CSS,JavaScript,Ruby,SQL
+ - フレームワーク：Ruby on Rails
+ - JSライブラリ：jQuery
+ - IDE：Cloud9
